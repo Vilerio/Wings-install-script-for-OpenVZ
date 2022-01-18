@@ -7,7 +7,10 @@ Ceci est un script d'installation de Wings sur une virtualisation OpenVZ.
 
 To use this installation script, run in your terminal
 
-``bash <(curl -s https://github.com/Vilerio/Wings-install-script-for-OpenVZ/releases/download/untagged-55125cdaf763211d33e7/wings.sh)
+``wget https://github.com/Vilerio/Wings-install-script-for-OpenVZ/archive/refs/heads/main.zip
+unzip main.zip
+sudo su
+./wings.sh
 ``
 
   and follow the instructions !
