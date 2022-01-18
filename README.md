@@ -16,6 +16,8 @@ To use this installation script, run in your terminal
 
 ``cd Wings-install-script-for-OpenVZ-main``
 
+``chmod 777 wings.sh ``
+
 ``./wings.sh``
 
   and follow the instructions !
@@ -25,8 +27,18 @@ To use this installation script, run in your terminal
 ### Français
 Pour utiliser ce script d'installation, execute cette commande dans ton terminal
 
-``bash <(curl -s https://github.com/Vilerio/Wings-install-script-for-OpenVZ/releases/download/untagged-55125cdaf763211d33e7/wings.sh)
-``
+``sudo su``
+
+``wget https://github.com/Vilerio/Wings-install-script-for-OpenVZ/archive/refs/heads/main.zip``
+
+``unzip main.zip``
+
+``cd Wings-install-script-for-OpenVZ-main``
+
+``chmod 777 wings.sh ``
+
+``./wings.sh``
+
 
 et suis les instructions !
 
