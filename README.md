@@ -21,3 +21,11 @@ Pour utiliser ce script d'installation, execute cette commande dans ton terminal
 ``
 
 et suis les instructions !
+
+***
+
+THIS IS A FORK OF Vilhelm Prytz's PROJECT.
+
+
+
+In collaboration with Maxime C. 
